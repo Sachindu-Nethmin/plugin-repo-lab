@@ -2,5 +2,9 @@
   {
     "name": "Sample Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
+  },
+  {
+    "name": "Sachindu Nethmin Plugin",
+    "entry": "./plugins/sachindu-nethmin/plugin.js"
   }
 ]
