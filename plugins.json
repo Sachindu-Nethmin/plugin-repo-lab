@@ -1,6 +1,6 @@
 [
   {
-    "name": "Sachindu Nethmin Plugin",
+    "name": "Sachindu Nethmin",
     "entry": "./plugins/sachindu-nethmin/plugin.js"
   }
 ]
